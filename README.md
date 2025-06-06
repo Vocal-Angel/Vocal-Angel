@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👑 Welcome to Vocal Angel Ltd on GitHub
 
-<!--
-**Vocal-Angel/Vocal-Angel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Founder of Vocal Angel Ltd & the WIN (Women Identity Network) Community**  
+Empowering women 50+ to build wealth with wisdom through blockchain, AI, and divine purpose.
 
-Here are some ideas to get you started:
+🎙 Host of *Vocal Points by Vocal Angel*  
+💫 Creator of the WIN-Wealth-Wizard  
+🌍 Champion of financial sovereignty & digital identity  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
+
+## 🔗 Explore More
+- 🌐 [Website](https://www.vocalangelrefire.com)
+- 🎧 [YouTube Podcast](https://www.youtube.com/@vocalangelid)
+- 📘 [LinkedIn](https://www.linkedin.com/in/barbara-angela-miller-80747429/)
+- 💡 [Instagram](https://www.instagram.com/vocalangelid)
+- 📘 [Facebook](https://www.facebook.com/vocalangelltd)
+
+> “Fast is not foolish when it flows through wisdom.”  
+> — Vocal Angel Philosophy
+
+---
+
 -->
